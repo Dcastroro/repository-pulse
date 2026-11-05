@@ -2,6 +2,8 @@
 
 A lightweight, browser-based dashboard for exploring real public GitHub repository activity and open work. It queries the GitHub REST API directly from your browser; no account, token, database or external charting package is required.
 
+[Explore the live demo](https://dcastroro.github.io/repository-pulse/)
+
 ![Repository Pulse example dashboard](docs/dashboard.png)
 
 The screenshot is an example captured at a point in time; the running dashboard fetches current data.
